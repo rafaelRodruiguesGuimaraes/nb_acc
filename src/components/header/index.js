@@ -21,7 +21,7 @@ const Header = () => (
                 <button type="button" onClick={handleScroll}>
                     Sobre mim
                 </button>
-                <a href="https://api.whatsapp.com/send?phone=5511983024880&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank" rel="noreferrer">
+                <a href="https://api.whatsapp.com/send?phone=5511983024880&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank" rel="noopener noreferrer">
                     Contato
                 </a>
             </div>

@@ -36,7 +36,7 @@ const Home = () => (
                 pouco mais sobre BAIXA ESTIMA e entender como a sua mente funciona para que
                 você consiga SE LIVRAR DA BAIXA ESTIMA e VIVER TODO O SEU POTENCIAL.
             </p>
-            <strong><a href="https://api.whatsapp.com/send?phone=5511983024880&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank" rel="noreferrer">Eu estou com um canal de atendimento online.</a></strong>
+            <strong><a href="https://api.whatsapp.com/send?phone=5511983024880&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank" rel="noopener noreferrer">Eu estou com um canal de atendimento online.</a></strong>
             <p>
                 Eu posso e quero te ajudar. Ter acesso a esse conhecimento mudou a minha
                 vida e hoje eu utilizo ele para ajudar pessoas como você.
@@ -65,9 +65,9 @@ const Home = () => (
         </NegociationBackground>
 
         <Contact>
-            <a href="https://api.whatsapp.com/send?phone=5511983024880&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank" rel="noreferrer"><img src={whatsapp} alt="whatsapp"/></a>
-            <a href="https://www.facebook.com/nathanael.borges.3" target="_blank" rel="noreferrer" ><img src={facebook} alt="facebook"/></a>
-            <a href="https://www.instagram.com/nborges91/?hl=en" target="_blank" rel="noreferrer" ><img src={instagram} alt="instagram"/></a>
+            <a href="https://api.whatsapp.com/send?phone=5511983024880&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank" rel="noopener noreferrer"><img src={whatsapp} alt="whatsapp"/></a>
+            <a href="https://www.facebook.com/nathanael.borges.3" target="_blank" rel="noopener noreferrer" ><img src={facebook} alt="facebook"/></a>
+            <a href="https://www.instagram.com/nborges91/?hl=en" target="_blank" rel="noopener noreferrer" ><img src={instagram} alt="instagram"/></a>
         </Contact>
 
     </Container>
